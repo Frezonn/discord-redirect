@@ -1,0 +1,2 @@
+# discord-redirect
+Discord Redirect
